@@ -1,7 +1,7 @@
 
 
 ### Hi 👋, There!  
-### <div align="center">I'm Agos Nieto, a frontend freelance developer 👩‍💻 and I'm a systems engineering student 🤓</div>  
+### <div align="center">I'm Jael Agostina, a frontend freelance developer 👩‍💻 and I'm a systems engineering student 🤓</div>  
   
 
 <div align="center">
