@@ -9,13 +9,7 @@
 </div>  
   
 
-- 💼 I have a web development business [JA Desarrollo Web.](https://github.com/agosnieto/JA-Desarrollo-Web.git)  
-  
-
-- 🌱 I’m currently reviewing concepts of html, css, javascript, react and python.  
-  
-
-- 🤖 I like robotic and artificial intelligence.  
+- 💼 I have a web development business [JA Desarrollo Web.](https://www.jadesarrolloweb.com)  
   
 
 <br/>  
