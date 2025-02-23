@@ -9,7 +9,7 @@
 </div>  
   
 
-- 💼 I’m currently working on [My personal website.](https://github.com/agosnieto/portfolio.git)  
+- 💼 I have a web development business [JA Desarrollo Web.](https://github.com/agosnieto/JA-Desarrollo-Web.git)  
   
 
 - 🌱 I’m currently reviewing concepts of html, css, javascript, react and python.  
